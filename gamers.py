@@ -15,7 +15,7 @@ class Gamer:
 
     # Задание 4. Измени сообщение
     def introduce(self):
-        print(f"Привет, меня зовут {self.name}, мне {self.age} лет. Мой ник в играх {self.nickname} и моя электронная почта {self.email}")
+        print(f"Привет, меня зовут {self.name}, мне {self.age} лет. Всегда на связи по {self.email}. Ищи меня в игре по нику {self.nickname}")
 
 
 # Создание экземпляра класса "Gamer"
